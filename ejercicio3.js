@@ -23,4 +23,3 @@ do {
     console.log("\n Opción no válida. Por favor elige un número del 1 al 4.");
   }
 } while (opcion !== "4");
-
