@@ -10,4 +10,4 @@ for(let i = 0; i < movimientos.length; i++){
     }
 }
 
-console.log(total, cantidadRetiros)
+console.log(`Su total es: ${total}, y la cantidad de retiros es: ${cantidadRetiros}`)
